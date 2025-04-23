@@ -16,8 +16,10 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
-Meu nome é Jonathan Oliveira, tenho 22 anos e atualmente estou cursando Tecnólogo em Informática para Negócios na Fatec Adib Moisés Dib, estou no meu 3º Semestre.
-Meus principais hobbies são ler, assistir séries, jogar. Eu treino por ódio, preciso ter uma vida saudavel e irei meter o "shape" este ano. 
+<p>Meu nome é Jonathan Oliveira, tenho 22 anos e atualmente estou cursando Tecnólogo em Informática para Negócios na Fatec Adib Moisés Dib, estou no meu 3º Semestre.<p>
+<br>
+<p>Meus principais hobbies são ler, assistir séries, jogar. Eu treino por ódio, preciso ter uma vida saudavel e irei meter o "shape" este ano.<p>
+<br>
 Resumindo um pouco sobre mim. 
 
 
